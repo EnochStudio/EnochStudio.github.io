@@ -52,9 +52,9 @@ gems: [jekyll-paginate]
 # highlighter: rouge
 # kramdown:
 # input: GFM                            # use Github Flavored Markdown !important
-markdown: redcarpet
-redcarpet:
-    extensions: [ "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
+markdown: kramdown
+kramdown:
+  input: GFM
 
 # 评论系统
 # Disqus（https://disqus.com/）
