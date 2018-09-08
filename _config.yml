@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: e37cdf0d046a7528c906                            #生成的clientID
   clientSecret: 668bf5de8650d77ab32bd862cc0358280b77f8ad    #生成的clientSecret
-  repo: enochstudio.github.io    #仓库名称
+  repo: EnochStudio.github.io    #仓库名称
   owner: EnochStudio    #github用户名
   admin: EnochStudio
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
